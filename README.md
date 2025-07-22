@@ -14,7 +14,7 @@ Este trabajo propone una arquitectura, capaz de integrar DDS y Kafka, combinando
 ------------------------------------------
 ## Memoria:
 
-*Pendiente de publicación*
+https://repositorio.unican.es/xmlui/handle/10902/36809
 
 ------------------------------------------
 
